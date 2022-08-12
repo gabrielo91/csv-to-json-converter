@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gabrielo91/csv-to-json-converter/issues"
   },
-  "homepage": "https://github.com/gabrielo91/csv-to-json-converter#readme"
+  "homepage": "https://github.com/gabrielo91/csv-to-json-converter#readme",
+  "dependencies": {
+    "json-2-csv": "^3.17.1"
+  }
 }
